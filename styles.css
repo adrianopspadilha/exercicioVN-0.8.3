@@ -29,3 +29,14 @@ div span {
 div {
     text-align: right;
 }
+.ChangeUserIcon {
+    font-size: 20px;
+    position: absolute;
+    right: -2px;
+    bottom: -7px;
+    border-radius: 50px;
+    background-color: #686565 ;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+}
